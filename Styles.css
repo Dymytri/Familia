@@ -1,0 +1,29 @@
+body {
+    background-image: url(Imagenes/Fondo\ gatos.png);
+    
+    
+}
+
+img {
+    width: 300px;
+    border-radius: 15%;
+}
+
+h2,
+h3,
+h4 {
+    font-family: 'Playfair Display', serif;
+}
+h1 {
+    font-family: 'Playfair Display', serif;
+    color: darkblue;
+}
+p,
+ul,
+label {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+}
+input {
+    margin: 8px;
+}
